@@ -1,5 +1,5 @@
 // Set the target date for the birthday
-const targetDate = new Date("2025-02-18T22:50:00").getTime();
+const targetDate = new Date("2025-02-18T23:05:00").getTime();
 
 // Select DOM elements
 const daysEl = document.getElementById("days");
